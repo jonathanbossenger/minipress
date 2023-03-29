@@ -1,0 +1,1 @@
+# Minipress: A minimalistic static site generator
